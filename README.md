@@ -79,8 +79,26 @@
   
 ---
 
-## Как упоминалось выше можно использовать клавиатуру от Авроры
+## Клавиатура  
+  
+Как упоминалось выше можно использовать клавиатуру от Авроры [Leningrad-2-128k-SRAM](https://github.com/Alex-2-Graf/Leningrad-2-128k-SRAM)  
+  
+![](Foto/L2-40Key-2.jpg)  
+  
+---
 
+## Корпус
+
+Наш коллега EvilUnyuu любезно предоставил файлы для печати корпуса. [ТУТ](Export/Evil_Case_for_PentoGraf_v0.zip)
+  
+![](Foto/Case/19-finished.jpg)  
+  
+![](Foto/Case/20-finished.jpg)  
+  
+Больше фото [ТУТ](Foto/Case)  
+  
+Напомню, что корпус отлично подойдёт и для Авроры [Leningrad-2-128k-SRAM](https://github.com/Alex-2-Graf/Leningrad-2-128k-SRAM) и для [Leningrad-2-48k](https://github.com/Alex-2-Graf/LENINGRAD-2-48k)  
+  
 ---
 
 ## Сборка  
@@ -99,13 +117,19 @@ JP1, JP2 и JP3 замыкаются в случае установки VGA-ра
   
 ![](Jumpers/J18.jpg)  
   
+---
+  
 ## ПЗУ  
   
 ПЗУ для проекта находятся [тут](ROM)  
   
+---
+  
 ## VGA  
   
 Прошивка и настройки для RP2040-Zero находится [тут](VGA)  
+  
+---
 
 ## ⚖️ Лицензия / License
 
